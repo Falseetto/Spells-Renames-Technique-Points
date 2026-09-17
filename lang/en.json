@@ -202,5 +202,11 @@
   "DND5E.SPELLCASTING.METHODS.Pact.Full.label": "Pact Technique",
   "CUSTOM_DND5E.speedFactorInitiative.action.magic.desc": "Perform a technique, use an elemental item, or use an elemental feature.",
   "CUSTOM_DND5E.speedFactorInitiative.action.magic.label": "Elements",
-  "CUSTOM_DND5E.speedFactorInitiative.action.utilize.desc": "Use a non-elemental object."
+  "CUSTOM_DND5E.speedFactorInitiative.action.utilize.desc": "Use a non-elemental object.",
+
+  "enhancedcombathud.settings.preparedSpells.name": "Prepared Techniques Only",
+  "enhancedcombathud.settings.preparedSpells.hint": "Show only prepared techniques",
+  "enhancedcombathud-dnd5e.portraitConfig.prepared.label": "Prepared Techniques",
+  "enhancedcombathud-dnd5e.portraitConfig.prepared.all": "All Techniques",
+  "enhancedcombathud-dnd5e.hud.castspell.name": "Perform Technique"
 }
