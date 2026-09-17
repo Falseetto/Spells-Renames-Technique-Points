@@ -2,10 +2,10 @@
   "id": "spells-renames-technique-points",
   "title": "Spells Renamed",
   "description": "Renames the Spellbook tab and Spell Slots labels to Techniques / Technique Points for the elemental homebrew system.",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "12",
-    "verified": "13"
+    "verified": "14"
   },
   "relationships": {
     "systems": [
